@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Pawn_B
-  m_Shader: {fileID: -6465566751694194690, guid: 1bc1e926075b1a540bc0f646e8fd65e8, type: 3}
+  m_Name: M_Yellow_04
+  m_Shader: {fileID: -6465566751694194690, guid: 84f66a05cba4a5740bcb57947513acbb, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,19 +19,19 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_51c68fc43a404d3aa91b7c05daa5057e_Texture_1:
-        m_Texture: {fileID: 2800000, guid: b45ec1e8db87eca4b942ead066095bf5, type: 3}
+    - Texture2D_30b01c5f624f4da0b531447d4cd71bae:
+        m_Texture: {fileID: 2800000, guid: 09c6a1b122e803c4189c5a415ce8f323, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_94d93980793643daac82ef005e07952b_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 5acdb4d6aa000de4fa4bce5cc5d778fc, type: 3}
+    - _SampleTexture2D_094b85451e4743738d91445897dcce07_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f82b56f831cc8984b855331570f1bee7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_b1d786cacc14469381eace777e8fc784_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 4d68370f22f58914e8e84e168753c202, type: 3}
+    - _SampleTexture2D_6642d1996c484d35bc1407b2d68351c5_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 52f63f66270ebeb419b5b8b48a378f6b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_e5ce4d736fe14a8f86e5245f7bbb1a20_Texture_1:
+    - _SampleTexture2D_a0ab61e9adcd428c8db106f7e7330a49_Texture_1:
         m_Texture: {fileID: 2800000, guid: f82b56f831cc8984b855331570f1bee7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -47,8 +47,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - Color_375f6408357c46c3a0f0b52382c90c9e: {r: 0, g: 1.4622207, b: 2.270603, a: 0}
-    - Color_e327fbaefcd5496fba0422559969bf77: {r: 0, g: 0.5741513, b: 2.1932578, a: 0}
+    m_Floats:
+    - Vector1_50f5a83f5fe64a1bada3d56e53acd96e: 1.5
+    m_Colors: []
   m_BuildTextureStacks: []
